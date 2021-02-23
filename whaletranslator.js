@@ -17,9 +17,3 @@ for (let i = 0; i < input.length; i++) {
 
 console.log(resultArray.join(''));
 
-/*
-I wrote this code without looking at the codecademy instructions. 
-Upon looking back at the instructions, I believe my method was 
-better, as it automated more steps of the process and accounted 
-for any sort of capitalization in the input string.
-*/
